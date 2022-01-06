@@ -33,7 +33,7 @@ const Header = () => {
             </li>
           ))}
         </ul>
-        <div className=" flex justify-end ">
+        <div className=" flex justify-end md:hidden">
           <button
             className="text-xl"
             onClick={() => setActive((prev) => !prev)}

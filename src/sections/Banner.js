@@ -10,10 +10,10 @@ const Banner = () => {
         the metaverse for bilions of years. the ape are ready to escape and
         wreak havoc on the blockchain!{" "}
       </p>
-      <p className="mt-20 text-sm ">
+      <p className="mt-20 text-sm w-11/12 sm:w-auto mx-auto">
         play our game, collect our NFTs and use our currency.
       </p>
-      <div className="grid grid-flow-col gap-6 justify-center mt-6">
+      <div className="grid sm:grid-flow-col gap-6 justify-center mt-6">
         <button className="text-gray px-10 py-2 rounded-md bg-white uppercase text-2xl">
           Buy $cac
         </button>

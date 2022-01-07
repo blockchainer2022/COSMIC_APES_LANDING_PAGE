@@ -6,26 +6,26 @@ import Team4 from "../assets/monkey4.png";
 const teamData = [
   {
     image: Team1,
-    name: "Monkey mcgregor",
-    text: "Co-founder",
-    text2: "(Management)",
+    name: "Curious George",
+    text: "Co-Founder Management",
+    // text2: "(Management)",
   },
   {
     image: Team2,
-    name: "Ape Diaz",
-    text: "Co-founder",
-    text2: "(tech)",
+    name: "Harambe ",
+    text: "Co - Founder Tech",
+    // text2: "(tech)",
   },
   {
     image: Team3,
-    name: "Chimp sonnen",
-    text: "Co-founder",
+    name: "Bubbles ",
+    text: "Co- Founder Art",
     text2: "(Art)",
   },
   {
     image: Team4,
-    name: "Gorilla mane",
-    text: "Co-founder",
+    name: "Donkey Kong",
+    text: "Community Outreach",
     text2: "(Art)",
   },
 ];

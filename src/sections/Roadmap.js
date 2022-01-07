@@ -22,64 +22,89 @@ const Roadmap = () => {
           </div>
         </div>
         <div className=" max-w-4xl mx-auto w-full">
-          <p className="text-xl mt-2 mb-4">Q3 2021</p>
+          <p className="text-xl mt-2 mb-4">Q4 2021</p>
 
           <div className="flex items-center mb-4">
             <img src={Done} alt="" className="mr-3" />
-            <p>
-              Launch Bananagram - an NFT game for Apes, Monkeys, and other
-              Degens
-            </p>
+            <p>Grow Social Presence</p>
           </div>
           <div className="flex items-center mb-4">
             <img src={Done} alt="" className="mr-3" />
-            <p>Launch Tournament for the Degen Ape Academy</p>
+            <p>Launch Discord</p>
           </div>
           <div className="flex items-center mb-4">
             <img src={Done} alt="" className="mr-3" />
-            <p>Add other premiere collections to Bananagram</p>
+            <p>Mint 999 Cosmic Ape NFTs</p>
           </div>
-          <p className="text-xl mt-10 mb-4 ">Q4 2022</p>
+          <p className="text-xl mt-10 mb-4 ">Q1 2022</p>
 
           <div className="flex items-center mb-4">
-            <img src={Done} alt="" className="mr-3" />
-            <p>Mint 1,500 Solana Banana NFTs</p>
-          </div>
-          <div className="flex items-center mb-4">
-            <img src={Done} alt="" className="mr-3" />
-            <p>List on secondary Marketplaces</p>
+            <img src={progress} alt="" className="mr-3" />
+            <p>List On Secondary Marketplaces</p>
           </div>
           <div className="flex items-center mb-4">
             <img src={progress} alt="" className="mr-3" />
-            <p>
-              10% of proceeds from initial sale will be donated to the Dian
-              Fossey Gorilla Fund
-            </p>
+            <p>Rarity Release on Moonrank.app</p>
           </div>
           <div className="flex items-center mb-4">
             <img src={progress} alt="" className="mr-3" />
-            <p>Launch Banana Bombs (Airdrop for Banana holders)</p>
+            <p>Cosmic Ape Coin $CAC Airdrop To All NFT Holders</p>
           </div>
-          <p className="text-xl mt-10 mb-4 ">Q1 2021</p>
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>$CAC Public Drop</p>
+          </div>
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>Listing On Dex Exchange</p>
+          </div>
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>Development of Whitepaper</p>
+          </div>
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>Pixel Cosmic Apes Release</p>
+          </div>
+          <p className="text-xl mt-10 mb-4 ">Q2 2022</p>
 
           <div className="flex items-center mb-4">
             <img src={ComingSoon} alt="" className="mr-3" />
-            <p>Mint 1,500 Solana Banana NFTs</p>
+            <p>Listing on first Centralized Exchange</p>
           </div>
           <div className="flex items-center mb-4">
             <img src={ComingSoon} alt="" className="mr-3" />
-            <p>List on secondary Marketplaces</p>
+            <p>Initial Playable Beta of Cosmic Apes p2e Game</p>
           </div>
           <div className="flex items-center mb-4">
             <img src={ComingSoon} alt="" className="mr-3" />
-            <p>
-              10% of proceeds from initial sale will be donated to the Dian
-              Fossey Gorilla Fund
-            </p>
+            <p>Announcement of Cosmic Ape DAO</p>
           </div>
           <div className="flex items-center mb-4">
             <img src={ComingSoon} alt="" className="mr-3" />
-            <p>Launch Banana Bombs (Airdrop for Banana holders)</p>
+            <p>Game marketing, and influencer outreach</p>
+          </div>
+          <p className="text-xl mt-10 mb-4 ">Q3 2022</p>
+
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>2nd Gen Cosmic Apes Release</p>
+          </div>
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>Baby Cosmic Apes Release </p>
+          </div>
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>Cosmic Ape Merch Drop</p>
+          </div>
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>Development Of Mobile Version Of Game</p>
+          </div>
+          <div className="flex items-center mb-4">
+            <img src={ComingSoon} alt="" className="mr-3" />
+            <p>First Community Events Scheduled</p>
           </div>
         </div>
       </div>

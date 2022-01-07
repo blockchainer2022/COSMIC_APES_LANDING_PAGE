@@ -6,18 +6,18 @@ import Circulating from "../assets/circulating.png";
 const cardData = [
   {
     image: Supply,
-    title: "Orignal supply",
-    text: "7,000,0000,000",
+    title: "Original Supply",
+    text: "1,000,000,000",
   },
   {
     image: Fire,
     title: "Burned",
-    text: "4,200,0000,000",
+    text: "Pending…",
   },
   {
     image: Circulating,
     title: "Circulating",
-    text: "2,800,0000,000",
+    text: "Pending…",
   },
 ];
 
@@ -29,14 +29,20 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 justify-between items-center mt-20">
           <div className="order-2 lg:order-1 lg:col-span-9">
             <p className="text-lg">
-              Limited: 1,500 unique, fruity, algorithmically generated Bananas -
-              stored with proof of ownership stored on the Solana blockchain.
+              Cosmic Ape Coin $CAC is the official token of the Cosmic Apes
+              Universe. Our goal is to create a collaborative space for holders
+              passionate about the burgeoning Solana NFT and Token market.
+              Moreover, we are dedicated to creating a popular metaverse P2E
+              game that utilizes our NFTs as characters and our token as
+              currency. Our team and community are looking ahead to a future
+              that takes the project beyond NFT status.
             </p>
             <p className="text-lg mt-4">
-              We believe in Solana and we believe in NFTs. In the future, we'll
-              look at this period as a defining moment in culture and
-              technology. History is being made, and we want to be part of it in
-              a meaningful way.
+              We believe that Cosmic Ape Coin provides the perfect medium for a
+              worldwide community to Shop, Game, and Interact on the Solana
+              blockchain. Since its inception in late December 2021, the Cosmic
+              Ape NFT has taken the Solana ecosystem by storm; we wish to take
+              it to another level in 2022!
             </p>
           </div>
           <div className="lg:col-span-3 lg:order-2 mx-auto lg:mx-0">

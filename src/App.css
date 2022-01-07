@@ -5,3 +5,30 @@ body {
   min-height: 100vh;
   width: 100%;
 }
+.card1,
+.card2,
+.card3,
+.card4 {
+  max-width: 400px;
+  width: 100%;
+}
+.card1 {
+  top: 0;
+  left: 0;
+  transform: translate(-40%, -100%);
+}
+.card2 {
+  top: 0;
+  right: 0;
+  transform: translate(60%, -20%);
+}
+.card3 {
+  top: 40%;
+  left: 0;
+  transform: translate(-40%, -20%);
+}
+.card4 {
+  bottom: 0;
+  right: 0;
+  transform: translate(40%, 50%);
+}

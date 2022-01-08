@@ -26,7 +26,7 @@ const teamData = [
     image: Team4,
     name: "Donkey Kong",
     text: "Community Outreach",
-    text2: "(Art)",
+    text2: "",
   },
 ];
 

@@ -6,7 +6,7 @@ const Banner = () => {
     <div className="py-20  text-center">
       <h1 className="text-6xl">Cosmic Apes</h1>
       <p className="w-11/12  md:max-w-3xl mx-auto mt-6 text-base sm:text-lg uppercase">
-        COSMIC APES IS AN EXCLUSIVE SOLANA COLLECTION OF APE NFTS. Trapped
+        COSMIC APES IS A EXCLUSIVE SOLANA COLLECTION OF APE NFTS. Trapped
         INSIDE THE METAVERSE FOR Billions of years. THE APEs ARE READY TO ESCAPE
         AND WREAK HAVOC ON THE BLOCKCHAIN!
       </p>

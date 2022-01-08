@@ -34,7 +34,7 @@ const Team = () => {
   return (
     <div className="py-20" id="team">
       <div className="container pb-20 border-b-2 border-white">
-        <h2 className="text-5xl text-center">Team Member</h2>
+        <h2 className="text-5xl text-center">Team Members</h2>
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mt-20">
           {teamData.map((val, i) => (
             <div key={i} className="text-center">

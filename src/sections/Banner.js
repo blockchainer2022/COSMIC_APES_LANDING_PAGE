@@ -25,10 +25,18 @@ const Banner = () => {
         Our community is amazing. Join the gang.
       </p>
       <div className="grid grid-flow-col justify-center items-center gap-3 mt-4">
-        <a href="#" target="_blank">
+        <a
+          href="https://mobile.twitter.com/cosmicapesnft"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src={Twitter} alt="twitter" />
         </a>
-        <a href="#" target="_blank">
+        <a
+          href="https://discord.com/invite/8VTNmSkRWj"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src={Discord} alt="Discord" />
         </a>
       </div>

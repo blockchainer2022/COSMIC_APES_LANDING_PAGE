@@ -5,10 +5,10 @@ const Banner = () => {
   return (
     <div className="py-20  text-center">
       <h1 className="text-6xl">Cosmic Apes</h1>
-      <p className="w-11/12  md:max-w-3xl mx-auto mt-6 text-base sm:text-lg">
-        COSMIC APES IS AN EXCLUSIVE SOLANA COLLECTION OF APE NFTS. TRAPED INSIDE
-        THE METAVERSE FOR BILIONS OF YEARS. THE APE ARE READY TO ESCAPE AND
-        WREAK HAVOC ON THE BLOCKCHAIN!
+      <p className="w-11/12  md:max-w-3xl mx-auto mt-6 text-base sm:text-lg uppercase">
+        COSMIC APES IS AN EXCLUSIVE SOLANA COLLECTION OF APE NFTS. Trapped
+        INSIDE THE METAVERSE FOR Billions of years. THE APEs ARE READY TO ESCAPE
+        AND WREAK HAVOC ON THE BLOCKCHAIN!
       </p>
       {/* <p className="mt-20 text-sm w-11/12 sm:w-auto mx-auto">
         play our game, collect our NFTs and use our currency.

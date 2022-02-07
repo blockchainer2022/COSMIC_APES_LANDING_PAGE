@@ -6,20 +6,22 @@ const Banner = () => {
     <div className="py-20  text-center">
       <h1 className="text-6xl">Cosmic Apes</h1>
       <p className="w-11/12  md:max-w-3xl mx-auto mt-6 text-base sm:text-lg uppercase">
-        COSMIC APES IS A EXCLUSIVE SOLANA COLLECTION OF APE NFTS. Trapped
-        INSIDE THE METAVERSE FOR Billions of years. THE APEs ARE READY TO ESCAPE
-        AND WREAK HAVOC ON THE BLOCKCHAIN!
+        COSMIC APES IS A EXCLUSIVE SOLANA COLLECTION OF APE NFTS. Trapped INSIDE
+        THE METAVERSE FOR Billions of years. THE APEs ARE READY TO ESCAPE AND
+        WREAK HAVOC ON THE BLOCKCHAIN!
       </p>
       {/* <p className="mt-20 text-sm w-11/12 sm:w-auto mx-auto">
         play our game, collect our NFTs and use our currency.
       </p> */}
       <div className="grid  sm:grid-flow-col gap-6 justify-center mt-10">
-        <button className="text-gray px-10 py-2 rounded-md bg-white uppercase text-2xl">
-          Buy $cac
-        </button>
-        <button className="text-gray px-10 py-2 rounded-md bg-white uppercase text-2xl">
-          Trade nft
-        </button>
+        <a
+          href="https://pixel.cosmicapes.xyz/"
+          target={"_blank"}
+          className="text-gray px-10 py-2 rounded-md bg-white uppercase text-2xl"
+          rel="noreferrer"
+        >
+          Mint Pixel Ape
+        </a>
       </div>
       <p className="text-base mt-10">
         Our community is amazing. Join the gang.
